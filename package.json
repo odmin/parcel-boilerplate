@@ -1,5 +1,5 @@
 {
-  "name": "energo",
+  "name": "parcel-boilerplate",
   "version": "1.0.0",
   "description": "Landing page",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "author": "Evgeny V. Saratovtsev",
+  "author": "Evgeniy V. Saratovtsev",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.7.4",
